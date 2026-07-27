@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "P": ["CUSTPN01"],
+    "1P": ["SUPPPN02"],
+    "2P": ["REVB"],
+    "30P": ["REVC30"],
+    "K": ["POKAY"],
+    "4K": ["PO4K99"]
+  },
+  "warnings": [],
+  "confidence": 1.0,
+  "customer_part_number": "CUSTPN01",
+  "supplier_part_number": "SUPPPN02",
+  "manufacturer": null,
+  "lot_code": null,
+  "quantity": null,
+  "date_code": null,
+  "country_of_origin": null,
+  "purchase_order": "POKAY",
+  "serial": null,
+  "revision": "REVC30",
+  "bin_code": null
+}

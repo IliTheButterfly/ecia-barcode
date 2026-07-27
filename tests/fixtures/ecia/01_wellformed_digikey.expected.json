@@ -1,0 +1,25 @@
+{
+  "fields": {
+    "P": ["TESTPART-001"],
+    "1P": ["CAP-104-X7R"],
+    "1V": ["KEMET"],
+    "1T": ["LOT20A5Z"],
+    "Q": ["2500"],
+    "9D": ["2408"],
+    "4L": ["PH"],
+    "K": ["PO998877"]
+  },
+  "warnings": [],
+  "confidence": 1.0,
+  "customer_part_number": "TESTPART-001",
+  "supplier_part_number": "CAP-104-X7R",
+  "manufacturer": "KEMET",
+  "lot_code": "LOT20A5Z",
+  "quantity": 2500,
+  "date_code": "2408",
+  "country_of_origin": "PH",
+  "purchase_order": "PO998877",
+  "serial": null,
+  "revision": null,
+  "bin_code": null
+}
