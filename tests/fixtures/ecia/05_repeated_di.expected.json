@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "P": ["MULTIREEL"],
+    "1T": ["REEL1LOTAA", "REEL2LOTBB"]
+  },
+  "warnings": ["repeated_di:1T"],
+  "confidence": 0.97,
+  "customer_part_number": "MULTIREEL",
+  "supplier_part_number": null,
+  "manufacturer": null,
+  "lot_code": "REEL1LOTAA",
+  "quantity": null,
+  "date_code": null,
+  "country_of_origin": null,
+  "purchase_order": null,
+  "serial": null,
+  "revision": null,
+  "bin_code": null
+}

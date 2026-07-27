@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "P": ["NOENVTEST"],
+    "1T": ["LOTXYZ9"]
+  },
+  "warnings": ["missing_envelope"],
+  "confidence": 0.80,
+  "customer_part_number": "NOENVTEST",
+  "supplier_part_number": null,
+  "manufacturer": null,
+  "lot_code": "LOTXYZ9",
+  "quantity": null,
+  "date_code": null,
+  "country_of_origin": null,
+  "purchase_order": null,
+  "serial": null,
+  "revision": null,
+  "bin_code": null
+}

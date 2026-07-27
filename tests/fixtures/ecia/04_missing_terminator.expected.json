@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "P": ["CROPPEDPART"],
+    "Q": ["42"]
+  },
+  "warnings": ["missing_terminator"],
+  "confidence": 0.90,
+  "customer_part_number": "CROPPEDPART",
+  "supplier_part_number": null,
+  "manufacturer": null,
+  "lot_code": null,
+  "quantity": 42,
+  "date_code": null,
+  "country_of_origin": null,
+  "purchase_order": null,
+  "serial": null,
+  "revision": null,
+  "bin_code": null
+}

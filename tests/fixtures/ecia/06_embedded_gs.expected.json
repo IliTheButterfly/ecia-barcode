@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "P": ["EMBEDTEST"],
+    "1T": ["LOT2024AB"]
+  },
+  "warnings": ["embedded_gs_repaired:1T"],
+  "confidence": 0.92,
+  "customer_part_number": "EMBEDTEST",
+  "supplier_part_number": null,
+  "manufacturer": null,
+  "lot_code": "LOT2024AB",
+  "quantity": null,
+  "date_code": null,
+  "country_of_origin": null,
+  "purchase_order": null,
+  "serial": null,
+  "revision": null,
+  "bin_code": null
+}

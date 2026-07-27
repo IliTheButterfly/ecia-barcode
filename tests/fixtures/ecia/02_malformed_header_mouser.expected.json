@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "P": ["MOUSERPART1"],
+    "Q": ["500"]
+  },
+  "warnings": ["malformed_header"],
+  "confidence": 0.95,
+  "customer_part_number": "MOUSERPART1",
+  "supplier_part_number": null,
+  "manufacturer": null,
+  "lot_code": null,
+  "quantity": 500,
+  "date_code": null,
+  "country_of_origin": null,
+  "purchase_order": null,
+  "serial": null,
+  "revision": null,
+  "bin_code": null
+}
