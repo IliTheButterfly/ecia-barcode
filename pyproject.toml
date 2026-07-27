@@ -4,12 +4,15 @@ version = "0.1.0"
 description = "Parser for ECIA EIGP-114 / ANSI MH10.8.2 distributor barcode labels."
 readme = "README.md"
 requires-python = ">=3.12"
+license = "MIT"
 keywords = ["ecia", "eigp-114", "mh10.8.2", "barcode", "datamatrix", "electronics", "digikey", "mouser"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
+    "Intended Audience :: Manufacturing",
     "Programming Language :: Python :: 3.12",
     "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed",
 ]
 dependencies = []
 
